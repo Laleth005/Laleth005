@@ -6,16 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:kiruthikbairavan13@gmail.com">
+  <a href="mailto:rockey1533@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF4B5C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/kiruthikbairavan-c-3a35b626b" target="_blank">
+  <a href="https://www.linkedin.com/in/laleth-r-b15b75254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://creative-brioche-204b8c.netlify.app" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://github.com/kiruthik13?tab=followers">
+  <a href="https://github.com/Laleth005">
     <img src="https://img.shields.io/github/followers/kiruthik13?style=for-the-badge&color=ff4b5c&label=Followers" />
   </a>
 </p>
