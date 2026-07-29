@@ -12,7 +12,7 @@
 
 [![Email](https://img.shields.io/badge/Email-FF4B5C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rockey1533@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laleth-r-b15b75254/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4B5C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://creative-brioche-204b8c.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4B5C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://laleth.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laleth005)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Laleth005&color=FF4B5C&style=for-the-badge)
